@@ -73,4 +73,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions regarding the project, please contact [Your Email Address].
+For questions regarding the project, please contact
